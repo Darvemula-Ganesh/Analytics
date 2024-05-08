@@ -41,7 +41,8 @@
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
 
- ![Bike Study](/assets/img/bike_study.jpeg)
+ !(certificates/Power BI Job Simulation - Pwc.jepg)
+ 
 
 
 
