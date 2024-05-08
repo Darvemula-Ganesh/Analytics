@@ -49,6 +49,8 @@
    trends to inform strategic decisions
  - Prepared a PowerPoint deck and video presentation to communicate key insights
    for the client and internal stakeholders
+
+   ![Certifications](https://github.com/Darvemula-Ganesh/Data-Analytics/blob/1d7c53ff52eed4a3e123a5d2f0deb28c82adb96c/Certifications/Data%20Analytics%20and%20Visualization%20Job%20-%20Accenture.png)
  
  ### Data Science Job Simulation - BCG X
 
