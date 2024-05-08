@@ -41,7 +41,7 @@
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
 
- !(certificates/Power BI Job Simulation - Pwc.jepg)
+ ![Certifications]Certifications/Data Analytics and Visualization Job - Accenture.png
  
 
 
