@@ -40,8 +40,7 @@
    focusing on gender-related KPIs, and identified root causes for gender
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
-
- ![Certifications]Certifications/Data Analytics and Visualization Job - Accenture.png
+  ![Certifications/Data Analytics and Visualization Job - Accenture.png]
  
 
 
