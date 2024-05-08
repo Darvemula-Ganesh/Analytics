@@ -40,6 +40,8 @@
    focusing on gender-related KPIs, and identified root causes for gender
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
+
+  ! [Certifications](https://github.com/Darvemula-Ganesh/Data-Analytics/blob/884ff1aa5f7e3ace17e74f0fe5acd513edc92c40/Certifications/Power%20BI%20Job%20Simulation%20-%20Pwc.png)
   
  ### Data Analytics and Visualization Job - Accenture
 
@@ -50,7 +52,7 @@
  - Prepared a PowerPoint deck and video presentation to communicate key insights
    for the client and internal stakeholders
 
-   ![Certifications](Certifications/Data Analytics and Visualization Job - Accenture.png)
+! [Certifications]([https://github.com/Darvemula-Ganesh/Data-Analytics/blob/884ff1aa5f7e3ace17e74f0fe5acd513edc92c40/Certifications/Power%20BI%20Job%20Simulation%20-%20Pwc.png](https://github.com/Darvemula-Ganesh/Data-Analytics/blob/884ff1aa5f7e3ace17e74f0fe5acd513edc92c40/Certifications/Data%20Analytics%20and%20Visualization%20Job%20-%20Accenture.png))
  
  ### Data Science Job Simulation - BCG X
 
@@ -63,6 +65,8 @@
    achieving an 85% accuracy rate in predicting customer churn.
  - Completed a concise executive summary for the Associate Director, delivering
    actionable insights for informed decision-making based on the analysis.
+
+! [Certifications]([https://github.com/Darvemula-Ganesh/Data-Analytics/blob/884ff1aa5f7e3ace17e74f0fe5acd513edc92c40/Certifications/Power%20BI%20Job%20Simulation%20-%20Pwc.png](https://github.com/Darvemula-Ganesh/Data-Analytics/blob/884ff1aa5f7e3ace17e74f0fe5acd513edc92c40/Certifications/Data%20Science%20Job%20Simulation%20-%20BCG%20X.png))
  
  ### Data Visualisation Empowering Business - TATA
 
@@ -71,6 +75,8 @@
 - Prepared questions for a meeting with client senior leadership
 - Created visuals for data analysis to help executives with effective decision
    making
+
+  ! [Certifications]([https://github.com/Darvemula-Ganesh/Data-Analytics/blob/884ff1aa5f7e3ace17e74f0fe5acd513edc92c40/Certifications/Power%20BI%20Job%20Simulation%20-%20Pwc.png](https://github.com/Darvemula-Ganesh/Data-Analytics/blob/884ff1aa5f7e3ace17e74f0fe5acd513edc92c40/Certifications/Data%20Visualisation%20Empowering%20Business%20-%20TATA.png))
    
  ### GenAI Job Simulation - BCC X
  
@@ -81,5 +87,7 @@
 - Integrated and interpreted complex financial data from 10-K and 10-Q reports,
    employing rule-based logic to create a chatbot that provides user-friendly
    financial insights and analysis.
+
+  ! [Certifications]([https://github.com/Darvemula-Ganesh/Data-Analytics/blob/884ff1aa5f7e3ace17e74f0fe5acd513edc92c40/Certifications/Power%20BI%20Job%20Simulation%20-%20Pwc.png](https://github.com/Darvemula-Ganesh/Data-Analytics/blob/884ff1aa5f7e3ace17e74f0fe5acd513edc92c40/Certifications/GenAI%20Job%20Simulation%20-%20BCC%20X.png))
 
 
