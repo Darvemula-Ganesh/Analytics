@@ -40,8 +40,44 @@
    focusing on gender-related KPIs, and identified root causes for gender
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
-  ![Certifications/Data Analytics and Visualization Job - Accenture.png]
- 
+  
+ ###Data Analytics and Visualization Job - Accenture
 
+ - Completed a simulation focused on advising a hypothetical social media client
+   as a Data Analyst at Accenture
+ - Cleaned, modelled and analyzed 7 datasets to uncover insights into content
+   trends to inform strategic decisions
+ - Prepared a PowerPoint deck and video presentation to communicate key insights
+   for the client and internal stakeholders
+ 
+ ###Data Science Job Simulation - BCG X
+
+ - Completed a customer churn analysis simulation for XYZ Analytics,
+   demonstrating advanced data analytics skills, identifying essential client
+   data and outlining a strategic investigation approach.
+ - Conducted efficient data analysis using Python, including Pandas and NumPy.
+   Employed data visualization techniques for insightful trend interpretation.
+ - Completed the engineering and optimization of a random forest model,
+   achieving an 85% accuracy rate in predicting customer churn.
+ - Completed a concise executive summary for the Associate Director, delivering
+   actionable insights for informed decision-making based on the analysis.
+ 
+ ###Data Visualisation Empowering Business - TATA
+
+- Completed a simulation involving creating data visualizations for Tata
+   Consultancy Services
+- Prepared questions for a meeting with client senior leadership
+- Created visuals for data analysis to help executives with effective decision
+   making
+   
+ ###GenAI Job Simulation - BCC X
+ 
+ - Completed a job simulation involving AI-powered financial chatbot development
+   for BCG's GenAI Consulting team.
+- Gained experience in Python programming, including the use of libraries such
+   as pandas for data manipulation.
+- Integrated and interpreted complex financial data from 10-K and 10-Q reports,
+   employing rule-based logic to create a chatbot that provides user-friendly
+   financial insights and analysis.
 
 
