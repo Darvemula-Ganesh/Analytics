@@ -26,7 +26,7 @@
 - Provided reporting for forecast analysis and ad-hoc reporting in support of decision-making.
 
 ## Certifications 
-###Power BI Job Simulation - Pwc
+### Power BI Job Simulation - Pwc
 
 - Completed a job simulation where I strengthened my PowerBI skills to better
    understand clients and their data visualisation needs.
@@ -41,7 +41,7 @@
    balance issues at the executive management level, highlighting a commitment
    to data-driven decision-making.
   
- ###Data Analytics and Visualization Job - Accenture
+ ### Data Analytics and Visualization Job - Accenture
 
  - Completed a simulation focused on advising a hypothetical social media client
    as a Data Analyst at Accenture
@@ -50,7 +50,7 @@
  - Prepared a PowerPoint deck and video presentation to communicate key insights
    for the client and internal stakeholders
  
- ###Data Science Job Simulation - BCG X
+ ### Data Science Job Simulation - BCG X
 
  - Completed a customer churn analysis simulation for XYZ Analytics,
    demonstrating advanced data analytics skills, identifying essential client
@@ -62,7 +62,7 @@
  - Completed a concise executive summary for the Associate Director, delivering
    actionable insights for informed decision-making based on the analysis.
  
- ###Data Visualisation Empowering Business - TATA
+ ### Data Visualisation Empowering Business - TATA
 
 - Completed a simulation involving creating data visualizations for Tata
    Consultancy Services
@@ -70,7 +70,7 @@
 - Created visuals for data analysis to help executives with effective decision
    making
    
- ###GenAI Job Simulation - BCC X
+ ### GenAI Job Simulation - BCC X
  
  - Completed a job simulation involving AI-powered financial chatbot development
    for BCG's GenAI Consulting team.
