@@ -1,6 +1,6 @@
 # Data Analytics
 
-#### Technical Skills: Python, SQL, MATLAB, informatica, Pandas
+#### Technical Skills: Python, SQL, MATLAB, informatica, Pandas, Informatica, MS Office (Power Point,Word,Excel)
 
 ## Education						       		
 - PGDM., Markering & Operations	| Siva Sivani Institute of Management (_May_2022_)			        		
